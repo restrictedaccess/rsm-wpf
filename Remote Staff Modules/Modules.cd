@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Remote_Staff_Modules.LoginModule" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Remote_Staff_Modules.BaseModule" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAABAAgAAAAAACAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>BaseModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Remote_Staff_Modules.LoginData" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAABAAAAAAAAAAAAAAACAAAAAgAAAgA=</HashCode>
+      <FileName>LoginData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="Remote_Staff_Modules.ModuleFactory">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ModuleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Remote_Staff_Modules.StartWorkModule" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StartWorkModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Remote_Staff_Modules.VersionModule" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VersionModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Remote_Staff_Modules.VersionData" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAACAAAABAAAAAAAAAAAAAAgAAAAAAAAAAgA=</HashCode>
+      <FileName>VersionData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="Remote_Staff_Modules.DevelopmentSettings" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAA=</HashCode>
+      <FileName>DevelopmentSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.27" />
+  </Class>
+  <Class Name="Remote_Staff_Modules.StagingSettings" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAA=</HashCode>
+      <FileName>StagingSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Interface Name="Remote_Staff_Modules.IProcessData">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>IProcessData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Remote_Staff_Modules.ISettings">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAA=</HashCode>
+      <FileName>ISettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
